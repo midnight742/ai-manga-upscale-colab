@@ -9,7 +9,7 @@ Upscale manga using AI.
 Note: If you were using the previous version, the bw input folder name has changed. Please, check the updated documentation.
 
 AI Manga Upscale Colab: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Spladenly/ai-manga-upscale-colab/blob/main/ai-manga-upscale-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/midnight742/ai-manga-upscale-colab/blob/main/ai-manga-upscale-colab.ipynb)
 
 AI Manga Upscale Colab Post-Production Toolset:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Spladenly/ai-manga-upscale-colab/blob/main/post-prod.ipynb)
